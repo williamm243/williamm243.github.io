@@ -1,0 +1,5 @@
+body{background-color:rgb(240, 231, 170);
+background: rgba(240,231,170,1);}
+#about{background-color: rgba(230, 178, 153, 1);}
+ul{list-style-type:georgian;}
+li{font-family: monospace;}
